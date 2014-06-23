@@ -1,4 +1,4 @@
-# rss-to-medium
+# medium-to-rss
 > create RSS feeds from Medium users/collections
 
 ## Installation
