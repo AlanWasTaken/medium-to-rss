@@ -1,0 +1,28 @@
+{
+  "name": "medium-to-rss",
+  "version": "0.1.0",
+  "description": "create RSS feeds from Medium users/collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expr/medium-to-rss.git"
+  },
+  "keywords": [
+    "medium",
+    "rss",
+    "feed"
+  ],
+  "author": "Fionn Kelleher <me@fionn.co>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/expr/medium-to-rss/issues"
+  },
+  "homepage": "https://github.com/expr/medium-to-rss",
+  "dependencies": {
+    "request": "^2.36.0",
+    "rss": "^0.3.2"
+  }
+}
